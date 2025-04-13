@@ -1,7 +1,4 @@
 # Python 30 Days - Day 1 Tracker
-1111111111
-4444444444
-#### 3333333333
 ## 🚀 Day 1: Introduction to Python
 
 ### Topics Covered:
