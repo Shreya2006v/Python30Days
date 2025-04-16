@@ -1,4 +1,4 @@
-# Python 30 Days - Day 1 Tracker
+# Python 30 Days - Daily Tracker
 ## 🚀 Day 1: Introduction to Python
   Variables, Data Types, Input/Output
   Conditionals, Loops
