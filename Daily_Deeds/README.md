@@ -20,8 +20,15 @@
    »Made a deep dive into :- •Tuples
                             •Dictionaries
    Operations on them and few simple applications .
-   
+
  😎 Mini Project :  A system to store student records, search students, and analyze data.
+   
+
+## 🚀 Day 4 & 5 :
+😀😀😀😀 Started with PYTHON ESSENTIALS 1 on  CISCO NETWORKING ACADEMY , to learn deeper simultaneously .   
+      >> completed 2 modules
+   
+   
 
 
 
