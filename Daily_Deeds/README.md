@@ -27,6 +27,13 @@
 ## 🚀 Day 4 & 5 :
 😀😀😀😀 Started with PYTHON ESSENTIALS 1 on  CISCO NETWORKING ACADEMY , to learn deeper simultaneously .   
       >> completed 2 modules
+
+
+## 🚀 Day 6 & 7 :
+😀😀😀😀Continuous work on cisco course .
+       >> Final steps towards completion of module 3.
+       >> Including labs , quiz , assessments and many more interesting innings .
+      
    
    
 
