@@ -106,6 +106,31 @@ numbers = [1, 2, 3, 4, 5, 6, 7, 8]
 evens = filter(lambda x: x % 2 == 0, numbers)  # Filter even numbers
 print(list(evens))  # Output: [2, 4, 6, 8]
 
+### map 
+
+numbers = [1, 2, 3, 4]
+squares = list(map(lambda x: x ** 2, numbers))
+print("Squares:", squares)
+
+
+### reduce 
+from functools import reduce
+
+# Sum all numbers
+numbers = [1, 2, 3, 4, 5]
+total = reduce(lambda x, y: x + y, numbers)
+print("Total sum:", total)
+
+
+    AND 
+
+from functools import reduce
+
+values = [2, 3, 4]
+product = reduce(lambda x, y: x * y, values)
+print("Product:", product)
+
+
 ################# list comprehension ######################
 squares = [x**2 for x in range(5)]
 print(squares)  # [0, 1, 4, 9, 16]
@@ -125,10 +150,16 @@ title, author, year = favorite_book
 
 # Printing the statement
 print(f"My favorite book is {title} by {author}, published in {year}.")
-'''
+
 books = {
     "Atomic Habits": {"author": "James Clear", "year": 2018, "rating": 9.5},
     "Deep Work": {"author": "Cal Newport", "year": 2016, "rating": 9.0}
 }
 for book, details in books.items():
     print(f"{book} by {details['author']} ({details['year']}) - Rating: {details['rating']}")
+'''
+
+
+#################### lambda functions ######################
+
+
