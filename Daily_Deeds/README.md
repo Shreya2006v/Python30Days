@@ -33,8 +33,15 @@
 😀😀😀😀Continuous work on cisco course .
        >> Final steps towards completion of module 3.
        >> Including labs , quiz , assessments and many more interesting innings .
-      
-   
+
+
+*********** A COUPLE OF DAYS FOR ACADEMICS ******************
+
+
+## 🚀  Day 8 & 9 :
+😀😀😀😀 Done with cisco's course .
+        >> got the certification .
+
    
 
 
