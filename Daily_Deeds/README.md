@@ -46,7 +46,8 @@
 ##  🚀🚀🚀🚀🚀🚀🚀 ##
 😀😀😀😀 I'm excited to share that I've successfully completed my 30-day Python learning journey!  I've built a strong foundation in core concepts, and I'm now transitioning into hands-on practice by working on a series of mini projects. These projects will help reinforce what I've learned and allow me to explore real-world applications. Looking forward to growing further and sharing my progress ahead!
 
-        >> For further information regarding my projects, feel free to explore each one in its folders in same repository. I'm looking forward to continuing this journey and growing as a developer!😎
+
+   >>For further information regarding my projects, feel free to explore each one in its folders in same repository. I'm looking forward to continuing this journey and growing as a developer!😎
         
 
           
