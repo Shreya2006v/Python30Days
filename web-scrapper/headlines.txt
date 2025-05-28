@@ -1,0 +1,30 @@
+1. Mullvad Leta
+   Link: https://leta.mullvad.net
+
+2. Getting a Cease and Desist from Waffle House
+   Link: https://www.jack.bio/blog/wafflehouse
+
+3. Comprehensive Analysis of De-Anonymization Attacks Against the Privacy Coin XMR
+   Link: https://monero.forex/is-monero-totally-private-a-comprehensive-analysis-of-de-anonymization-attacks-against-the-privacy-coin/
+
+4. The mysterious Gobi wall uncovered
+   Link: https://phys.org/news/2025-05-secrets-mysterious-gobi-wall-uncovered.html
+
+5. Show HN: Tesseral – Open-Source Auth
+   Link: https://github.com/tesseral-labs/tesseral
+
+6. The Who Cares Era
+   Link: https://dansinker.com/posts/2025-05-23-who-cares/
+
+7. Show HN: Loodio 2 – A Simple Rechargable Bathroom Privacy Device
+   Link: https://loodio.com/
+
+8. The Blowtorch Theory: A new model for structure formation in the universe
+   Link: https://theeggandtherock.com/p/the-blowtorch-theory-a-new-model
+
+9. Show HN: Wetlands – a lightweight Python library for managing Conda environments
+   Link: https://arthursw.github.io/wetlands/0.2.0/
+
+10. As a developer, my most important tools are a pen and a notebook
+   Link: https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/
+
